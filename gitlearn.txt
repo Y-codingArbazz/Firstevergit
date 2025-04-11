@@ -1,1 +1,3 @@
-here to learn git.
+Today i have learnt about generating the token .
+I have done it using the command below
+git remote set-url origin https://username:token@repo link 
