@@ -4,3 +4,4 @@ Git Branch (add name of branch)... to create the branch.
 git switch {branch name} to switch from main branch to the branch you created.
 This branching is helpful to code the main code without changing the main branch code.
 We can also merge it back to the main branch too after the changes are done correctly.
+Git Branch name can be different from the file name.
