@@ -5,3 +5,5 @@ git switch {branch name} to switch from main branch to the branch you created.
 This branching is helpful to code the main code without changing the main branch code.
 We can also merge it back to the main branch too after the changes are done correctly.
 Git Branch name can be different from the file name.
+To merge the branch in to the main branch firstly check you are in main branch.
+Then Git merge (name of the branch you want to merge)... use this command to merge the branches to the main branch.
