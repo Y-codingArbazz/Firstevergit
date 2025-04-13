@@ -6,5 +6,9 @@ To Check the commits & to get the ID's with the commit names you need to enter {
 Now we will see the commits and ID's.
 Select the commit ID that you want to revert .Copy it!
 At last enter prompt git revert ID(paste the copied ID)..the changes have been reverted.
-
-
+Here now you can add back the code or the changes that have been removed above...
+Changes can be added back using {git revert} prompt again but with a slight difference...
+When git revert is done an ID is produced for the reverted changes commit...
+Using that ID you can get the removed code or changes back!!
+THIS IS WHY COMMITTING IS ESSENTIAL FOR MAKING OR REVERTING CHANGES IN THE CODE !
+COMMITTING AFTER EVERY IMPORTANT TASK IS ESSENTIAL!!!..
