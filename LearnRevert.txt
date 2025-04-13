@@ -1,0 +1,10 @@
+Reverting is done when you want to remove the changes in the code you have done and committed in the git.
+And also we can bring back the removed changes using the reverting.
+When we commit an id is Produced beside the commit name.. you gave at the time of committing.
+Using the ID's we can particularly revert the changes of the code.
+To Check the commits & to get the ID's with the commit names you need to enter {git log --oneline}.
+Now we will see the commits and ID's.
+Select the commit ID that you want to revert .Copy it!
+At last enter prompt git revert ID(paste the copied ID)..the changes have been reverted.
+
+
